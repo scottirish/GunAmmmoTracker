@@ -1,4 +1,4 @@
-# GunAmmmoTracker
+
 # Gun and Ammo Tracker
 
 This Shiny app allows users to track guns and ammo separately. Users can add guns with their calibers and track the count of ammo types.
